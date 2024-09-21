@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnkitRana24-tech
+- 👋 Hi, I’m ANKIT RANA
 - 👀 I’m interested in Database Administrator and Data Analytics
 - 🌱 I’m currently persuing Bachelor's of Computer Application
 - 📫 How to reach me:-ankitsrana0457@gmail.com
