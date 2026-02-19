@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am working in L&T Mindtree<br>I am a Cloud and Infra Management Engineer<br>Want to Transit in AI/ML Engineer <br>I studied BCA from Dehradun<br>
+My Name is Ankit & I'm working in L&T Mindtree<br>Engineer-Cloud and Infra Management<br>Exploring AI/ML Domains <br>
 
 
 ## 🌐 Socials:
