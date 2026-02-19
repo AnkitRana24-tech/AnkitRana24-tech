@@ -1,5 +1,5 @@
 # 💫 About Me:
-My Name is Ankit & I'm working in L&T Mindtree<br>Engineer-Cloud and Infra Management<br>Exploring AI/ML Domains <br>
+Engineer-Cloud and Infra Management @ L&T Mindtree<br>Exploring AI/ML Domains <br>
 
 
 ## 🌐 Socials:
