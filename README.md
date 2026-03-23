@@ -1,5 +1,5 @@
 # 💫 About Me:
-Engineer-Cloud and Infra Management @ L&T Mindtree<br>Exploring AI/ML Domains <br>
+Engineer-Cloud and Infra Management @ LTM<br>Exploring AI/ML Domains <br>
 
 
 ## 🌐 Socials:
