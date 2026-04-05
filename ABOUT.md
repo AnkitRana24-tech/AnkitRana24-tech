@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 Engineer-Cloud and Infra Management @ LTM<br>Building End-to-End Machine Learning Solutions & Deploying Scalable APIs <br>
 
 
